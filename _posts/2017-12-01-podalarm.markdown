@@ -7,4 +7,3 @@ project-url: https://play.google.com/store/apps/details?id=com.robj.podalarm
 layout: default
 modal-id: c-podalarm
 ---
-
