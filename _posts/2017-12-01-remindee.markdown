@@ -1,7 +1,7 @@
 ---
 title: Motherland
 subtitle: OneFestival at The Space, January 2018
-blurb: Motherland received rave reviews including from theatrebox and The Upcoming [theatrebox](https://theatrebox.blog/2018/01/12/programme-b-the-one-festival-the-space/){:target="_blank"} to [The Upcoming](https://www.theupcoming.co.uk/2018/01/11/the-one-festival-programme-b-at-the-space-a-heady-mix-of-gender-race-depression-redemption-and-lots-of-laughs-theatre-review){:target="_blank"}.
+blurb: 'Poignant, eye-opening and frequently hilarious' - Read the reviews: (https://theatrebox.blog/2018/01/12/programme-b-the-one-festival-the-space/){:target="_blank"} to [The Upcoming](https://www.theupcoming.co.uk/2018/01/11/the-one-festival-programme-b-at-the-space-a-heady-mix-of-gender-race-depression-redemption-and-lots-of-laughs-theatre-review){:target="_blank"}.
 image: img/timeline/apps/remindee.png
 layout: default
 modal-id: c-remindee
