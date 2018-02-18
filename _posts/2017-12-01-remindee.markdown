@@ -3,7 +3,6 @@ title: Motherland
 subtitle: OneFestival at The Space, January 2018
 blurb: Naomi's solo dark comedy Motherland was selected to be part of One Festival, a festival which celebrates solo performances. Motherland received rave reviews from theatrebox and The Upcoming [theatrebox](https://theatrebox.blog/2018/01/12/programme-b-the-one-festival-the-space/){:target="_blank"} to [The Upcoming]{:target="_blank"} directly [The Upcoming](https://www.theupcoming.co.uk/2018/01/11/the-one-festival-programme-b-at-the-space-a-heady-mix-of-gender-race-depression-redemption-and-lots-of-laughs-theatre-review){:target="_blank"}.
 image: img/timeline/apps/remindee.png
-project-url: https://play.google.com/store/apps/details?id=com.robj.remindee
 layout: default
 modal-id: c-remindee
 ---
