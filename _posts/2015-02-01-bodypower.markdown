@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Body Power Expo (Client)
-subtitle: Feb 2015 - 3 Months
-blurb: Sole developer on this app to promote all the media content from the expo.
+title: Motherland and Criteria
+subtitle: Evolution Festival, Lyric Hammersmith, March 2017
+blurb: Naomi’s companion pieces are programmed as part of Evolution Festival 2017.
 image: "img/timeline/client/bodypower.png"
 modal-id: c-vanity_stash
 ---
