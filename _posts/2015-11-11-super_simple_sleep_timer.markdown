@@ -1,9 +1,8 @@
 ---
-title: Super Simple Sleep Timer
-subtitle: 2014 - Present
-blurb: Over 250k downloads, featured on [Lifehacker](http://lifehacker.com/super-simple-sleep-timer-silences-or-closes-apps-on-a-t-1496230728){:target="_blank"}, [AddictiveTips](http://www.addictivetips.com/android/super-simple-sleep-timer-automatically-silence-music-apps-in-android/){:target="_blank"}, [XDA](https://www.xda-developers.com/android/automatically-stop-your-music-when-you-sleep/){:target="_blank"} & others.
-image: "img/timeline/apps/ssst.webp"
-project-url: https://play.google.com/store/apps/details?id=robj.simple.sleeptimer
+title: Interrupted
+subtitle: JW3, July 2017
+blurb: After an intensive devising period, Naomi presented a staged reading of Interrupted, a glimpse into the Jewish practice of sitting Shiva (directed by Ree Murrell, performed by Naomi, Kelsey Short and Ant Sandler).
+image: img/timeline/client/smile_machine.jpg
+project-url: http://www.ignis.co.uk/
 layout: default
-modal-id: a-ssst
----
+modal-id: c-ignis_uk
