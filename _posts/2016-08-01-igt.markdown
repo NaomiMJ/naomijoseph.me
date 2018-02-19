@@ -3,5 +3,5 @@ title: I’m Unique...Just Like Everyone Else
 subtitle: Omnibus, Oct 2017
 blurb: Naomi collaborated with Rachael Black and Omnibus to curate a night of live performances.
 
-image: "img/timeline/clients/omnibus.jpeg"
+image: "img/timeline/client/Omnibus.jpeg"
 ---
