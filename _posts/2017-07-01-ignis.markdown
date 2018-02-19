@@ -1,7 +1,7 @@
 ---
-title: ignis Ltd (Client)
-subtitle: July 2017 - 1 month
-blurb: Greenfield prototype project for a whitelabel customer facing retail app
+title: She’ll Call Again
+subtitle: West London Mental Health Trust, July 2017
+blurb: Naomi was invited to perform spoken word at the WLMHT AGM
 image: img/timeline/client/ignis.png
 project-url: http://www.ignis.co.uk/
 layout: default
