@@ -1,8 +1,8 @@
 ---
 title: Sana Khan, Veiled and Vinegar
-subtitle: Redbridge Drama Centre, Contact Theatre Manchester 2014 - 2015
+subtitle: Redbridge Drama Centre, Contact Theatre Manchester 2014, 2015
 blurb: Naomi originates the role of Sana in Sumerah Srivistav's Veiled and Vinegar.
-image: "img/timeline/apps/send_it.webp"
+image: "img/timeline/client/Redbridge Drama Centre.jpeg"
 layout: default
 modal-id: a-send_it
 ---
