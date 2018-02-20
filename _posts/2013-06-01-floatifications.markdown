@@ -1,8 +1,8 @@
 ---
-title: Floatifications
-subtitle: 2013 - Nov 2017<br>
-blurb: Over 250k downloads, 100k in it's first week, featured on [The Next Web](http://thenextweb.com/apps/2014/04/19/11-android-apps-make-notifications-interesting/){:target="_blank"} , [CNET](https://www.cnet.com/news/five-apps-that-put-a-twist-on-android-notifications/){:target="_blank"}, [Android Police](http://www.androidpolice.com/2014/01/14/floatifications-formerly-floating-notifications-gets-updated-to-v1-7-with-new-ticker-notifications-and-more/){:target="_blank"} & others.
-image: "img/timeline/apps/floatifications.webp"
+title: Criteria
+subtitle: TEAfilms, 2016 - Ongoing <br>
+blurb:Originally a spoken word piece, Criteria is made into a short by TEAfilms and is currently circulating film festivals and shortlisted for several.
+image: "img/timeline/client/TEAfilms.jpeg"
 layout: default
 modal-id: a-floatifications
 date: 2014-07-18
