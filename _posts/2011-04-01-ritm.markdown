@@ -2,7 +2,7 @@
 title: Carla
 subtitle: The Kilburn Passion, Tricycle Theatre, 2014
 blurb: Naomi was a member of the Tricycle Theatre Young Company from 2013 - 2015. She performed as Carla in The Kilburn Passion by SUhayla El-Bushra and as Haleh in The Dissidents by Shamse Sinha 
-image: "img/timeline/apps/ritm.webp"
+image: img/timeline/apps/Tricycle.jpeg
 layout: default
 modal-id: a-ritm
 project-url: https://play.google.com/store/apps/details?id=robj.readit.tomefree
