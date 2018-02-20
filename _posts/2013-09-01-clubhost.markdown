@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Clubhost
-subtitle: Sep 2013 - 2 Months
-blurb: Sole developer for this startup building an app to book vip club experiences.
-image: "img/timeline/client/clubhost.png"
+title: Development Lab
+subtitle: Lyric Hammersmith, 2016
+blurb: Naomi is a participating artist for the Lyric's Development Lab program and is mentored by Yolanda Mercy.
+image: img/timeline/client/lyric.jpg
 project-url: https://play.google.com/store/apps/details?id=com.seventeen.clubhost
 modal-id: c-clubhost
 date: 2013-09-01
