@@ -4,7 +4,6 @@ title: Development Lab
 subtitle: Lyric Hammersmith, 2016
 blurb: Naomi is a participating artist for the Lyric's Development Lab program and is mentored by Yolanda Mercy.
 image: img/timeline/client/lyric.jpg
-project-url: https://play.google.com/store/apps/details?id=com.seventeen.clubhost
 modal-id: c-clubhost
 date: 2013-09-01
 img: clubhost.png
