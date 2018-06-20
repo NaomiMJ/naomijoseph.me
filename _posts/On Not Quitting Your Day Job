@@ -5,5 +5,5 @@ blurb: In this essay I honestly portrayed the challenges and the benefits of day
 image: "img/timeline/client/exeunt.jpg"
 layout: default
 modal-id: a-ritm
-project-url: [http://exeuntmagazine.com/features/not-quitting-day-job/]
+project-url: <http://exeuntmagazine.com/features/not-quitting-day-job/>
 ---
