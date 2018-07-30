@@ -10,7 +10,7 @@ google-tracking-id: UA-113923707-1
 
 # Career Settings
 # Default career thumbnail image.
-career-img: "img/me.jpg"
+career-img:
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
 
